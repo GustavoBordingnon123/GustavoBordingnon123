@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 ## About
-My names is gustavo bordignon and i am studyng to became a proggrammer
+Hello, I am currently working as a front-end development intern while also studying React, React Native, and Node technologies on my own. My dream is to become a competent senior professional working with these technologies.
 
 ## my statistics
 <div align="center" style='display:flex'>
